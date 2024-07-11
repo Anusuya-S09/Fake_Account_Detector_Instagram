@@ -54,5 +54,3 @@ Once the system is up and running, users can access the web interface to input s
 Contributions to the Fake Social Media Account Detection System are welcome! Please fork the repository, make your changes, and submit a pull request with a detailed description of your contributions.
 
 ---
-
-Feel free to customize the content according to your project's specific details and requirements.
